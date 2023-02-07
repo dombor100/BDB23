@@ -3,4 +3,6 @@ My submission to the Big Data Bowl 2023:
 
 The Code folder includes all of my code.  Open the RunAll.R file to see general instructions.  
 
+requirements.txt displays all packages I loaded in R, prior to running my code.
+
 The main branch contains images and animations from the report.
