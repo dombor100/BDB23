@@ -1,0 +1,25 @@
+.
+./README.md
+./requirements.txt
+./5man_front_density.PNG
+./DAL_blitzModel_learningCurves.PNG
+./NE_centerTurnModel_learningCurves.PNG
+./adjDistanceFromLOS Expl.png
+./animation_1.gif
+./animation_2.gif
+./animation_3.gif
+./half slide pro.png
+./recommendation_gameplan.png
+./widebox_LOS_description.png
+./Code
+./Code/RunAll.R
+./Code/animations.R
+./Code/blitz_learning_curves.R
+./Code/centerTurn_learning_curves.R
+./Code/create_features.R
+./Code/defensive_front_density.R
+./Code/micahparsons.R
+./Code/pats_centerturn_findings.R
+./Code/predict_blitz_prob.R
+./Code/predict_center_turn.R
+./Code/recommendation.R
