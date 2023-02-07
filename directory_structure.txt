@@ -23,3 +23,6 @@
 ./Code/predict_blitz_prob.R
 ./Code/predict_center_turn.R
 ./Code/recommendation.R
+./Code/TrainedModels
+./Code/TrainedModels/centerturnmodels_NE.rds
+./Code/TrainedModels/blitzprobmodels_DAL.rds
